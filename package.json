@@ -11,7 +11,8 @@
     "react-helmet": "^5.2.0",
     "webpack": "^1.15.0",
     "kind-of": ">=6.0.3",
-    "minimist": ">=0.2.1"
+    "minimist": ">=0.2.1",
+    "acorn": ">=5.7.4"
   },
   "keywords": [
     "gatsby"
